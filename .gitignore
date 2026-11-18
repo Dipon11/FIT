@@ -1,0 +1,7 @@
+venv/
+*.json
+*.png
+*.csv
+.kaggle/
+*.pem
+local.conf
